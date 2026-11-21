@@ -1,0 +1,15 @@
+# Allowlist (RELEASE-ADDENDUM R1): only these files are ever tracked here.
+# No source, build output, installers or build-plan files.
+/*
+!/README.md
+!/LICENSE.md
+!/CHANGELOG.md
+!/SECURITY.md
+!/.gitignore
+!/.github/
+/.github/*
+!/.github/ISSUE_TEMPLATE/
+/.github/ISSUE_TEMPLATE/*
+!/.github/ISSUE_TEMPLATE/bug_report.yml
+!/.github/ISSUE_TEMPLATE/feature_request.yml
+!/.github/ISSUE_TEMPLATE/config.yml

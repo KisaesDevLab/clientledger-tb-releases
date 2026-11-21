@@ -1,0 +1,52 @@
+name: Bug report
+description: Something in ClientLedger Trial Balance does not work as it should.
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **Do not attach or paste client data, tax documents, company files, backups (.tbak), licence keys, or screenshots showing them. Issues are public.**
+        Use made-up names and numbers. For anything that needs client data, email support@kisaes.com instead.
+  - type: input
+    id: version
+    attributes:
+      label: App version
+      description: Help > About (for example 0.1.0-beta.1, build 1a2b3c4d5).
+    validations:
+      required: true
+  - type: input
+    id: windows
+    attributes:
+      label: Windows version
+      description: Settings > System > About (for example Windows 11 23H2).
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: What you did, step by step, with made-up data.
+      placeholder: |
+        1. Open a client
+        2. ...
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: What you expected, and what happened instead
+    validations:
+      required: true
+  - type: textarea
+    id: diagnostics
+    attributes:
+      label: Diagnostics (optional)
+      description: Help > Copy diagnostics, then paste here. Read it first for anything you would not want public.
+      render: text
+  - type: checkboxes
+    id: no-client-data
+    attributes:
+      label: Client data
+      options:
+        - label: This issue contains no client data, tax documents, company files, backups or screenshots showing them.
+          required: true
