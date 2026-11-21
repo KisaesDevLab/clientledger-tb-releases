@@ -12,16 +12,16 @@ and the place to report problems. It does not hold source code.
 
 ## Download
 
-The app is in beta. Every version, betas included, is on the releases page:
+The newest version is always at:
 
-**https://github.com/KisaesDevLab/clientledger-tb-releases/releases**
+**https://github.com/KisaesDevLab/clientledger-tb-releases/releases/latest**
 
 Download `ClientLedger-TB-Setup-x64.exe` (the installer) or
 `ClientLedger-TB-windows-x64.zip` (a portable copy: unzip it and run
 `clientledger-tb.exe` in the `ClientLedger Trial Balance` folder).
 
-Once a stable (non-beta) version is out, the newest stable version is always at
-https://github.com/KisaesDevLab/clientledger-tb-releases/releases/latest
+Every version, test versions (with a suffix such as `-beta.1`) included, is on
+https://github.com/KisaesDevLab/clientledger-tb-releases/releases
 
 ## Requirements
 

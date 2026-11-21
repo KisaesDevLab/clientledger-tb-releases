@@ -4,9 +4,9 @@ What changed in each version of ClientLedger Trial Balance, newest first.
 Versions with a suffix such as `-beta.1` are test versions (GitHub
 pre-releases).
 
-## 0.1.0-beta.1
+## 0.1.0
 
-First beta, Windows x64 only.
+First release (an early version for testing), Windows x64 only.
 
 - Clients, periods and trial balances with book and tax adjusting entries,
   prior-year comparison, flux flags, lead sheets, W/P references, tickmarks
