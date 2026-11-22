@@ -12,9 +12,13 @@ First release (an early version for testing), Windows x64 only.
   close income to retained earnings, recurring entries, W/P references),
   edit, lock and unlock a period; deleting a period or a client asks you to
   type its name and backs up everything first.
-- Trial balances with book and tax adjusting entries, prior-year comparison,
+- Trial balances with book and tax adjusting entries and reclassifying
+  entries (in the balances, never on the letter to the bookkeeper),
+  prior-year comparison,
   a flux flag column, lead sheets, W/P references, tickmarks and notes, and
   Export to Excel.
+- Prior year tie-out: put the bookkeeper's prior year (a file, a PDF read by
+  AI, or keyed in) beside this app's, see what differs, and post the true-up.
 - Chart of accounts: add, change and remove accounts (removed accounts are
   kept and can be brought back), change many at once, import a chart from
   CSV or Excel, copy from another client, units and tickmarks.
@@ -35,7 +39,8 @@ First release (an early version for testing), Windows x64 only.
 - Chart of accounts templates, the program's and your firm's, all editable.
 - AI review and the assistant with your own Anthropic key, a local Ollama or
   an OpenAI-compatible server; Claude Desktop and other MCP apps can work in
-  the app (never deleting a client or period, never your settings).
+  every area of the app, ten-key tapes included (never deleting a client or
+  period, never your settings), and are told what they can only read.
 - Firm server (off unless you turn it on): open a period from your firm's
   Vibe Trial Balance server, work offline, and send it back.
 - Backup and restore: on close and daily, a second copy folder (OneDrive,
