@@ -75,8 +75,12 @@ official build of ClientLedger Trial Balance): email support@kisaes.com.
 
 ## Licence
 
-See [LICENSE.md](LICENSE.md). The desktop app is under the MIT License; the
-bundled engine is under the PolyForm Small Business License 1.0.0 with an
-additional permission from Kisaes LLC for official builds.
+See [LICENSE.md](LICENSE.md). ClientLedger Trial Balance is under the
+[VibeMyFirm Community License 1.0](https://vibemyfirm.com/licenses/community-1.0):
+free for the books of entities you own, control or work for; preparing trial
+balances for clients who pay you is Professional Use and needs a Pro License
+Key; distributing the program needs a Developer License Key. The bundled engine
+in an official build is licensed to you under the same licence by the Kisaes
+Engine Product Grant, to run only as shipped.
 
 Copyright 2025-2026 Kisaes LLC.
