@@ -4,6 +4,20 @@ What changed in each version of ClientLedger Trial Balance, newest first.
 Versions with a suffix such as `-beta.1` are test versions (GitHub
 pre-releases).
 
+## 0.1.2
+
+- Look at a lead sheet attachment in the app: **View** opens it with the
+  ten-key tape (add up amounts typed or picked from the page, and paste the
+  tape on the attachment after asking). A locked period's attachments open
+  too, with the tape to copy; nothing is written on them. **Open in PDF
+  program** (under More) opens it in your own PDF program as before.
+- Documents: a PDF opens in the app with the ten-key tape (copy only);
+  other files open in their own program.
+- Setup asks whether to install for you only (the default, no administrator
+  rights) or for all users of the computer (Program Files, administrator).
+  An upgrade keeps the earlier choice. Your clients and backups stay with
+  each person either way.
+
 ## 0.1.1
 
 First release (an early version for testing), Windows x64 only, under the
