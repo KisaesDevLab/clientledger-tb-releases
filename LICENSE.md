@@ -13,6 +13,8 @@ THIRD-PARTY-NOTICES.txt).
    In short: free for the books of entities you own, control or work
    for; preparing trial balances for clients who pay you needs a Pro
    License Key; distributing the program needs a Developer License Key.
+   Pro License Keys are not sold yet: until Kisaes announces them, Kisaes
+   permits Professional Use of the 0.x test versions without a key.
 
 2. The Vibe Trial Balance engine (engine\clientledger-tb-engine.exe):
    in this official build, licensed to you under the VibeMyFirm

@@ -83,4 +83,8 @@ Key; distributing the program needs a Developer License Key. The bundled engine
 in an official build is licensed to you under the same licence by the Kisaes
 Engine Product Grant, to run only as shipped.
 
+Pro License Keys are not sold yet; they come with a later version. Until
+Kisaes announces them here, Kisaes permits Professional Use of the 0.x test
+versions without a key.
+
 Copyright 2025-2026 Kisaes LLC.

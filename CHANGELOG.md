@@ -9,7 +9,8 @@ pre-releases).
 First release (an early version for testing), Windows x64 only, under the
 VibeMyFirm Community License 1.0 (see LICENSE.md). Version 0.1.0 was
 published under the MIT License on 2026-11-22 and withdrawn the same day; 0.1.1
-is the same program under the new licence.
+is the same program under the new licence. Pro License Keys are not sold yet:
+until they are, Professional Use of the 0.x test versions needs no key.
 
 - Clients and periods: roll forward into the next year (carry balances or
   close income to retained earnings, recurring entries, W/P references),
