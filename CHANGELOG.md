@@ -4,6 +4,17 @@ What changed in each version of ClientLedger Trial Balance, newest first.
 Versions with a suffix such as `-beta.1` are test versions (GitHub
 pre-releases).
 
+## 0.1.3
+
+- If the key that opens your books goes missing from Windows' secure
+  storage, the "stopped working" screen now offers **Start over from a
+  backup…**: it sets your books folder aside (renamed, never deleted), and
+  the next start offers your newest backup to restore. It checks first that
+  the key is really gone, so a briefly locked keychain changes nothing.
+- The app's saved keys now stay on this computer instead of travelling with
+  a work (domain) Windows profile, where a profile sync could remove them.
+  Keys saved by earlier versions are moved the next time they are read.
+
 ## 0.1.2
 
 - Look at a lead sheet attachment in the app: **View** opens it with the
